@@ -5,3 +5,5 @@
 Запуск: Через Dockerfile
 ## Ссылки
 https://leadersofdigital.ru/
+## Ссылка на прототип (может не работать)
+http://digital-final-289317.ew.r.appspot.com/
