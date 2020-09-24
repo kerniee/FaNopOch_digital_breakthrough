@@ -7,4 +7,4 @@
 https://leadersofdigital.ru/  
 Главное репо: https://github.com/sasha00123/FaNopOch  
 ## Ссылка на прототип (может не работать)
-http://digital-final-289317.ew.r.appspot.com/
+http://digital-final-289317.ew.r.appspot.com/login
